@@ -1,0 +1,20 @@
+{
+  "name": "pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrahamSH-LLK/pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrahamSH-LLK/pages/issues"
+  },
+  "homepage": "https://github.com/GrahamSH-LLK/pages#readme"
+}
